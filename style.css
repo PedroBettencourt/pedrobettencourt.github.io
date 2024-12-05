@@ -88,11 +88,11 @@ a{
 }
 
 .profile-photo {
-    width: 100px; /* Adjust size as needed */
-    height: 100px; /* Maintain proportional size */
+    width: 150px; /* Adjust size as needed */
+    height: 150px; /* Maintain proportional size */
     border-radius: 50%; /* Makes the image circular */
-    margin-bottom: 20px; /* Adds space below the photo */
-    border: 3px solid #fff; /* Optional border for aesthetic */
+    margin-bottom: 10px; /* Adds space below the photo */
+    border: 2px solid #fff; /* Optional border for aesthetic */
 }
 
 /* media queres */
